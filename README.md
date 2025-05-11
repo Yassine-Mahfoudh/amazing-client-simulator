@@ -14,6 +14,9 @@ Ce projet Streamlit permet de simuler les habitudes d’achat d’un nouveau cli
 ##  Installation
 
 ### 1. Cloner ou extraire le projet dans un dossier
+```bash
+git clone https://github.com/Yassine-Mahfoudh/amazing-client-simulator.git
+```
 
 ### 2. Créer un environnement virtuel (recommandé)
 
@@ -33,7 +36,7 @@ python -m venv venv
 ```bash
 pip install -r requirements.txt
 ```
-## ▶️ Lancer l’application Streamlit
+##  Lancer l’application Streamlit
 
 Dans le terminal :
 
